@@ -6,6 +6,10 @@ GET URL(all Products) localhost:8083/getAllProducts
 
 ________________________________________________________________
 
+GET URL (one product) localhost:8083/getProduct/Aspirin
+
+________________________________________________________________
+
 DELETE URL (delete product) localhost:8083/deleteProduct/10
 ________________________________________________________________
 
@@ -40,5 +44,5 @@ JSON Body
     "anzahl": 5
 ________________________________________________________________
 
-GET URL (one product) localhost:8083/getProduct/Aspirin
+
 
