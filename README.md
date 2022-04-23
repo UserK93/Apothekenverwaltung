@@ -34,7 +34,7 @@ POST URL (add Product)localhost:8083/addProduct
 
 JSON Body
 
-	"produktname": "Aspirin",
+    "produktname": "Aspirin",
     "wirkstoff": "Acetylsalicylsäure",
     "hersteller": "Bayer",
     "anzahl": 5
@@ -42,22 +42,3 @@ ________________________________________________________________
 
 GET URL (one product) localhost:8083/getProduct/Aspirin
 
-
-
-
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
