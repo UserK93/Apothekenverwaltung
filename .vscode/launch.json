@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApothekeApplication<ProductREST>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.demo.ApothekeApplication",
+            "projectName": "ProductREST",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
