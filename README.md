@@ -1,4 +1,4 @@
-# apotheke_aufgabe
+# Apothekenverwaltung
 
 Postman values:
 
